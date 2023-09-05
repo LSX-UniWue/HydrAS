@@ -24,52 +24,36 @@ The following persons are involved in this project:
 
 The following publications are related to this project:
 
-Philipp Singer, Denis Helic, Andreas Hotho, Markus Strohmaier
-
-[HypTrails: A Bayesian Approach for Comparing Hypotheses About Human Trails on the Web](https://dl.acm.org/doi/abs/10.1145/2736277.2741080)
-
+Philipp Singer, Denis Helic, Andreas Hotho, Markus Strohmaier <br>
+[HypTrails: A Bayesian Approach for Comparing Hypotheses About Human Trails on the Web](https://dl.acm.org/doi/abs/10.1145/2736277.2741080) <br>
 Proceedings of the 24th International Conference on World Wide Web, 2015
 
-Florian Lemmerich, Martin Becker, Philipp Singer, Denis Helic, Andreas Hotho, Markus Strohmaier
-
-[Mining Subgroups with Exceptional Transition Behavior](https://dl.acm.org/doi/10.1145/2939672.2939752)
-
+Florian Lemmerich, Martin Becker, Philipp Singer, Denis Helic, Andreas Hotho, Markus Strohmaier <br>
+[Mining Subgroups with Exceptional Transition Behavior](https://dl.acm.org/doi/10.1145/2939672.2939752) <br>
 Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2016
 
-Martin Becker, Florian Lemmerich, Philipp Singer, Markus Strohmaier, Andreas Hotho:
-
-[MixedTrails: Bayesian hypothesis comparison on heterogeneous sequential data](https://link.springer.com/article/10.1007/s10618-017-0518-x)
-
+Martin Becker, Florian Lemmerich, Philipp Singer, Markus Strohmaier, Andreas Hotho <br>
+[MixedTrails: Bayesian hypothesis comparison on heterogeneous sequential data](https://link.springer.com/article/10.1007/s10618-017-0518-x) <br>
 Data Min. Knowl. Discov. 31(5): 1359-1390 (2017)
 
-Martin Becker, Kathrin Borchert, Matthias Hirth, Hauke Mewes, Andreas Hotho, Phuoc Tran-Gia
-
-[MicroTrails: comparing hypotheses about task selection on a crowdsourcing platform](https://dl.acm.org/doi/10.1145/2809563.2809608)
-
+Martin Becker, Kathrin Borchert, Matthias Hirth, Hauke Mewes, Andreas Hotho, Phuoc Tran-Gia <br>
+[MicroTrails: comparing hypotheses about task selection on a crowdsourcing platform](https://dl.acm.org/doi/10.1145/2809563.2809608) <br>
 Proceedings of the 15th International Conference on Knowledge Technologies and Data-driven Business, 2015
 
-Martin Becker, Philipp Singer, Florian Lemmerich, Andreas Hotho, Denis Helic, Markus Strohmaier
-
-[Photowalking the city: comparing hypotheses about urban photo trails on Flickr](https://link.springer.com/chapter/10.1007/978-3-319-27433-1_16)
-
+Martin Becker, Philipp Singer, Florian Lemmerich, Andreas Hotho, Denis Helic, Markus Strohmaier <br>
+[Photowalking the city: comparing hypotheses about urban photo trails on Flickr](https://link.springer.com/chapter/10.1007/978-3-319-27433-1_16) <br>
 Social Informatics, Volume 9471 of the series Lecture Notes in Computer Science, 2015
 
-Florian Lemmerich, Martin Becker, Philipp Singer, Denis Helic, Andreas Hotho, Markus Strohmaier
-
-[Mining Subgroups with Exceptional Transition Behavior](https://dl.acm.org/doi/10.1145/2939672.2939752)
-
+Florian Lemmerich, Martin Becker, Philipp Singer, Denis Helic, Andreas Hotho, Markus Strohmaier <br>
+[Mining Subgroups with Exceptional Transition Behavior](https://dl.acm.org/doi/10.1145/2939672.2939752) <br>
 Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2016
 
-Thomas Niebler, Martin Becker, Daniel Zoller, Stephan Doerfel, Andreas Hotho
-
-[FolkTrails: Interpreting Navigation Behavior in a Social Tagging System](https://dl.acm.org/doi/10.1145/2983323.2983686)
-
+Thomas Niebler, Martin Becker, Daniel Zoller, Stephan Doerfel, Andreas Hotho <br>
+[FolkTrails: Interpreting Navigation Behavior in a Social Tagging System](https://dl.acm.org/doi/10.1145/2983323.2983686) <br>
 Proceedings of the 25th ACM International on Conference on Information and Knowledge Management, 2016
 
-Martin Becker, Hauke Mewes, Andreas Hotho, Dimitar Dimitrov, Florian Lemmerich, and Markus Strohmaier.
-
-[SparkTrails: A MapReduce Implementation of HypTrails for Comparing Hypotheses About Human Trails](https://dl.acm.org/doi/10.1145/2872518.2889380)
-
+Martin Becker, Hauke Mewes, Andreas Hotho, Dimitar Dimitrov, Florian Lemmerich, and Markus Strohmaier. <br>
+[SparkTrails: A MapReduce Implementation of HypTrails for Comparing Hypotheses About Human Trails](https://dl.acm.org/doi/10.1145/2872518.2889380) <br>
 Proceedings of the 15th International Conference on Knowledge Technologies and Data-driven Business, 2015
 
 
