@@ -62,7 +62,8 @@ Proceedings of the 15th International Conference on Knowledge Technologies and D
 The following code is related to this project:
 - [HypTrails](https://github.com/mgbckr/pytrails)
 - [SparkTrails](https://github.com/mgbckr/sparktrails)
-- [HypTrails Framework](https://github.com/LSX-UniWue/HypTrails-Framework) developed in this project 
+- [HypTrails Framework](https://github.com/LSX-UniWue/HypTrails-Framework) developed in this project
+- [DeepTrails](https://github.com/LSX-UniWue/deep-trails), uses autoregressive language models to tackle user behavior analysis. 
 
 ## Further resources
 
