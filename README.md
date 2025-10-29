@@ -63,7 +63,8 @@ The following code is related to this project:
 - [HypTrails](https://github.com/mgbckr/pytrails)
 - [SparkTrails](https://github.com/mgbckr/sparktrails)
 - [HypTrails Framework](https://github.com/LSX-UniWue/HypTrails-Framework) developed in this project
-- [DeepTrails](https://github.com/LSX-UniWue/deep-trails), uses autoregressive language models to tackle user behavior analysis. 
+- [DeepTrails](https://github.com/LSX-UniWue/DeepTrails), uses autoregressive language models to tackle user behavior analysis.
+- [DeepTrails](https://github.com/LSX-UniWue/DeepTrails/tree/sequence_clustering) using DeepTrails for partition sequences with respect to hypotheses
 
 ## Further resources
 
